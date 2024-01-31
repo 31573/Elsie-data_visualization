@@ -1,7 +1,10 @@
 # Elsie-data_visualization
 As a senior data analyst, I am tasked to analyze a drug regimen treatment study performed on mice for skin cancer. The data resulting from the 45 days study are compiled in the following two files.
+
 •	Mouse_metadata.csv
+
 •	Study results.csv
+
 Utilizing the files, I will generate tables and figures for the technical report of the clinical study which has a focus of comparing the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
 Below is the table of content for the Analysis:
