@@ -3,6 +3,7 @@ As a senior data analyst, I am tasked to analyze a drug regimen treatment study 
 •	Mouse_metadata.csv
 •	Study results.csv
 Utilizing the files, I will generate tables and figures for the technical report of the clinical study which has a focus of comparing the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
+
 Below is the table of content for the Analysis:
 
 1.	Generate Summary Statistics
